@@ -1,1 +1,1 @@
-# codingAssignment2
+This is my second coding assignment for my C programming class. 
